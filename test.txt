@@ -3,3 +3,4 @@ It has a couple of lines
 I've added another line.
 Another lines.
 This is master line.
+Feature line.
